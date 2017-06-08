@@ -1,7 +1,8 @@
 A sample project with multiple login page in using Spring Security.
 
-form user resources are under /form/formHome (login with user/test)
-Basic authentication user is under /basic/basicHome (login with basic_user/test) when prompted
+form user resources are under /form/formHome (login with user/test), logout with /form/logout
+
+Basic authentication user is under /basic/basicHome (login with basic_user/test) when prompted, logout with basic/logout
 
 ### Note
 
